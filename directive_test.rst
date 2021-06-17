@@ -1,2 +1,2 @@
 
-.. literalinclude: ./test.yaml
+.. literalinclude:: ./test.yaml
